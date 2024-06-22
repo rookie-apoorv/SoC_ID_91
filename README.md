@@ -1,9 +1,11 @@
 # SoC_ID_91
- Summer_of_code_repo
 
- Folders-
-    Assignment_1 ---- contains 10 questions from week1.(optimum code for required 6 problems, working code for rest).
+## Folders
 
-    Assignment 2 ---- contains 10 questions from week2.(successfully submitted on codeforces).
-    
-    Practice ---- contains codes from codeforces contests taken during the course of this summer till now.
+-*Assignment_1*- Contains 10 questions(optimum code for req 6 questions, working code for rest).
+
+-*Assignment_2*- Contains 10 questions(successfully submitted on codeforces).
+
+-*Practice*- Contains codeforces contest soln of some questions from contests held during the course of this summer.
+
+ 
