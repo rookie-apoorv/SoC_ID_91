@@ -8,4 +8,6 @@
 
 -*Practice*- Contains codeforces contest soln of some questions from contests held during the course of this summer.
 
- 
+-*Assignment_3*- Contains solutions to 15 out of  21 problems given on codeforces contest 2.
+
+-*Assignment_4* Contains solutions to 5 out of 8 problems given on codeforces contest 3.
